@@ -1,14 +1,28 @@
+aid: empathy-maps
 name: Empathy Maps
-description: A collaborative visualization tool used to articulate what we know about
-  a particular type of user. It externalizes knowledge about users in order to create
-  a shared understanding of user needs, and aid in decision making.
-url: https://www.nngroup.com/articles/empathy-mapping/
+description: >-
+  An empathy map is a collaborative visualization tool used to articulate what
+  is known about a particular type of user. It externalizes knowledge about users
+  in order to create a shared understanding of user needs, and aids in decision
+  making. Empathy maps are used in design thinking and UX design to build
+  empathy with target users.
+type: Index
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
-- User Research
-- Design Thinking
-- UX Design
-- Collaboration
-created: '2025'
-modified: '2025'
+  - User Research
+  - Design Thinking
+  - UX Design
+  - Collaboration
+url: https://www.nngroup.com/articles/empathy-mapping/
+created: '2025-01-01'
+modified: '2026-03-16'
+position: Consumer
+access: 3rd-Party
+specificationVersion: '0.19'
 apis: []
-common: []
+common:
+  - type: Website
+    url: https://www.nngroup.com/articles/empathy-mapping/
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
